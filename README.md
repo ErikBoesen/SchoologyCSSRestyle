@@ -1,0 +1,2 @@
+# SchoologyCSSRestyle
+Neat Schoology Theme
