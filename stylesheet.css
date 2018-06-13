@@ -143,6 +143,12 @@ h2 {
   background-color: #292929;
 }
 
+#main {
+      background-color: #2fe2a1;
+}
+
+
+
 #main-content-wrapper {
   margin-left: 180px;
   border: 1px solid #292929;
@@ -151,7 +157,7 @@ h2 {
   border-top-color: rgb(199, 199, 199);
   border-top: 0;
   padding: 0 20px;
-  background-color: #292929;
+  background-color: #2fe2a1;
   min-height: 500px;
 }
 
@@ -161,7 +167,7 @@ h2 {
   font-size: 14px;
   font-weight: bold;
   border-bottom: 1px solid #292929;
-  background-color: #292929;
+  background-color: #2fe2a1;
 }
 
 .info-tab .profile-header {
@@ -432,6 +438,15 @@ body a, body .clickable, body .smart-box .filter-block li a, body #content-left-
   border-color: #fff;
 }
 
+#home-feed-container {
+    background-color: #292929;
+}
+
+
+
+.s-edge-feed, #main {
+   background-color: #292929; 
+}
 #supplementary {
   background-color: #333;
   overflow: hidden;
@@ -460,7 +475,7 @@ body .submit-span-wrapper, body .click-submit, body .submit-btn, body .popups-bo
 }
 
 .link-btn {
-  background-color: #444444;
+  background-color: #000000;
   border: none;
 }
 
@@ -690,6 +705,30 @@ body.s_grade_item_assignment .with-tabs #center-top {
   color: #327cbb;
 }
 
+
+.sgy-tabbed-navigation, .smart-box, #home-feed-container, #main, #main-inner, .sHome-processed, .edge-wrapper, .main-inner  {
+    background-color: #292929;
+}
+
+.edge-wrapper {
+border-color: #292929;    
+display: none;
+box-shadow: 0 1px 3px 0 rgb(0,0,0);
+    color: #292929;    
+}
+
+.s-enable-course-dashboard.theme-2016-layout #main {
+    background: #292929!important;
+    box-shadow: none!important;
+    border: none;
+}
+
+.s-enable-course-dashboard.theme-2016-layout #home-feed-container {
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,0.15);
+    background: linear-gradient(0deg, #00926c, #1899bf);
+    padding: 10px;
+}
+
 #library-left td:hover, .library-collections a:hover, .library-collections a.active {
   background-color: #4b4b4b;
 }
@@ -724,7 +763,7 @@ body.api-oauth-authorize #s-api-authorize-form .cancel-btn .submit-span-wrapper 
 }
 
 .popups-tabs {
-  background-color: #333;
+  background-color: #000000;
 }
 
 dropbox-submit-upload-tab-content {
@@ -910,6 +949,7 @@ action-links-wrapper action-links-wrapper-gearless aligned-right {
 
 .popups-box .submit-buttons .submit-btn, .popups-box .submit-buttons .cancel-btn, .popups-box .submit-buttons .link-btn {
   color: #e6e6e6;
+background-color: #000000;
 }
 
 #nav ul li:hover, #nav ul li a:hover, #nav #nav_left li.primary-activities:hover, #nav #nav_left li.primary-activities.active, body .primary-activities .active, body .primary-activities:hover {
@@ -1146,14 +1186,18 @@ a.ui-selectmenu {
   background-color: #4b4b4b;
 }
 
+/* Test */
+/* Header */
 .has-folder-player.s_grade_item_common_assessment #center-top .content-top-upper, .has-materials-player.s_grade_item_common_assessment #center-top .content-top-upper, .s_grade_item_common_assessment #center-top .content-top-upper {
   background-color: #292929;
 }
 
+/* Background */
 .s_grade_item_common_assessment #main-content-wrapper {
   background-color: #292929;
 }
 
+/* Grade */
 .ca-assessment-delivery__attempt_details_card, .ca-assessment-delivery__instructions-card {
   background-color: #333;
 }
