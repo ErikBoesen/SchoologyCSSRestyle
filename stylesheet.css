@@ -157,7 +157,7 @@ h2 {
   border-top-color: rgb(199, 199, 199);
   border-top: 0;
   padding: 0 20px;
-  background-color: #2fe2a1;
+  background-color: #292929;
   min-height: 500px;
 }
 
@@ -331,6 +331,44 @@ body #navigation_search, body .activities-dropdown-wrapper, body .request-wrappe
   border-top: 1px solid #c7c7c7;
   background-color: #292929;
   z-index: 1;
+}
+
+._2awxe_3skcp_26UWf_2nSV0 {
+  background-color: #292929;
+}
+
+._2awxe _3skcp _26UWf _2nSV0 {
+ background-color: #292929;
+}
+
+.util-justify-content-space-between-3euFK {
+    color: #fff;
+    background-color: #292929;
+}
+
+._1wP6w, ._3ghFm, .WfriF {
+ color: #fff;
+    background-color: #292929;
+}
+
+._26UWf, ._2nSV0 {
+ color: #fff;
+    background-color: #292929;
+}
+
+.link-btn download popups-processed sExtlink-processed {
+ color: #fff;
+    background-color: #292929;
+}
+
+span {
+	color: #000;
+    background-color: #292929;
+}
+
+.util-focus-background-color-cloud-grey-3x07X, .util-text-decoration-none-1n0lI {
+    color: #fff;
+    background-color: #292929;
 }
 
 .materials-top {
